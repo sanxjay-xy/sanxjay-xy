@@ -29,7 +29,7 @@
 
 📁 Browse all certificates in [Certifications Repository](https://github.com/CodesBySanjay/Certifications)
 
-![Microsoft](https://img.shields.io/badge/Microsoft-3%20Certifications-blue)
+![Microsoft](https://img.shields.io/badge/Microsoft-3%20Certifications-blue)<br>
 ![Python Institute](https://img.shields.io/badge/Python%20Institute-2%20Certifications-yellow)
 
 📂 Categories:
