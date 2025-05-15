@@ -37,6 +37,7 @@
 - 🌐 `Microsoft/` — Azure AI Fundamentals, AI Engineer Associate, Applied Skills
 - 🐍 `PythonInstitute/` — PCEP, PCAP
 - 📝 `FreeCodeCamp/` — Responsive Web Design
+
 🛠 More uploading soon...
 
 ---
@@ -73,5 +74,7 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=CodesBySanjay&label=Profile%20views&color=0e75b6&style=flat)
+## 🤝 Follow If You Like What You See!
+
+![Profile Views](https://komarev.com/ghpvc/?username=CodesBySanjay&label=Profile%20Views&color=blue&style=for-the-badge)
 
