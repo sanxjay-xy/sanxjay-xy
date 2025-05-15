@@ -11,6 +11,8 @@
 
 ---
 
+## 🎯 About Me
+
 🔭 I’m currently building: **ML/NLP Projects based on Microsoft Applied Skills**
 
 🌱 Currently deepening: **ML Pipelines, Cloud Deployment, Real-Time Data Engineering**
