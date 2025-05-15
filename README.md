@@ -19,7 +19,7 @@
 
 🎯 Long-Term Goal: **Data Scientist at Meta (post-Master’s)**
 
-📫 Contact: **SanjayTheAnalyst@gmail.com**
+📫 Contact: [SanjayTheAnalyst@gmail.com](mailto:SanjayTheAnalyst@gmail.com)
 
 💬 Ask me about: **Azure AI, Python, Data Science Internships, Forecasting Models**
 
@@ -70,4 +70,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50" alt="Instagram"/>
 </a>
 </p>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=CodesBySanjay&label=Profile%20views&color=0e75b6&style=flat)
 
