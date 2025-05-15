@@ -52,10 +52,11 @@
 
 ## 🔗 Let’s Connect
 <p align="left">
-  <a href="https://linkedin.com/in/sanjaypraveen/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="50" />
+  <a href="https://linkedin.com/in/sanjaypraveen" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="50" alt="LinkedIn"/>
   </a>
-  <a href="mailto:SanjayTheAnalyst@gmail.com" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50" />
+  <a href="https://discord.com/users/sanxjay" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="50" alt="Discord"/>
   </a>
 </p>
+
