@@ -29,7 +29,7 @@
 
 📁 Browse all my certifications in the [Certifications](https://github.com/CodesBySanjay/Certifications) archives!
 
-![Microsoft](https://img.shields.io/badge/Microsoft-3%20Certifications-blue)<br>
+![Microsoft](https://img.shields.io/badge/Microsoft-2%20Certifications-blue)<br>
 ![Python Institute](https://img.shields.io/badge/Python%20Institute-2%20Certifications-yellow)<br>
 ![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-1%20Certification-red)
 
