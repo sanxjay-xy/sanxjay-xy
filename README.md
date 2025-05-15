@@ -1,4 +1,4 @@
-![Banner](https://webcoder.co.in/wp-content/uploads/2021/04/website.gif)
+![Banner](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 
 <h1 align="center">Hi 👋, I'm Sanjay Praveen</h1>
 <h3 align="center">Data Science | AI + Cloud | ML Pipelines in Progress</h3>
