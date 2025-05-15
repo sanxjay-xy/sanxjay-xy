@@ -38,11 +38,12 @@
 - 🐍 `PythonInstitute/` — PCEP, PCAP
 - 📝 `FreeCodeCamp/` — Responsive Web Design
 
-🛠 More uploading soon...
+More uploading soon...
 
 ---
 
-<h3 align="left">Languages & Tools I Use:</h3>
+## 🛠️ Languages & Tools I Use
+
 <p align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" />
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" />
